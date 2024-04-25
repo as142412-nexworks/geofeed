@@ -2,7 +2,8 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # https://geolocatemuch.com/?resource=103.168.6.0/23
 # https://geolocatemuch.com/?resource=2407:7a40::/32
-# prefix,country_code,region_code,city,postal
+# prefix,country,region,city,zip
+
 103.168.6.0/23,MY,MY-10,Cyberjaya,63000
 103.168.6.0/24,MY,MY-10,Cyberjaya,63000
 103.168.7.0/24,MY,MY-10,Cyberjaya,63000
