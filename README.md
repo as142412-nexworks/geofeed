@@ -6,4 +6,4 @@ AS142412 Geofeed in RFC 8805 format
 - [IPv6 gelocatemuch](https://geolocatemuch.com/?resource=2407:7a40::/32)
 - [csv raw github](https://raw.githubusercontent.com/as142412-nexworks/geofeed/main/geofeed.csv)
 
-last updated: 2024-04-25T18:15:49+08:00
+last updated: 2024-04-25T18:07:15+08:00
